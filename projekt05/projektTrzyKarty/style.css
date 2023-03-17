@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+}
+
+.board {
+    display: flex;
+    margin: 10px;
+}
+
+.card {
+    width: 150px;
+    height: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}

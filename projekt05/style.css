@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 400vh;
+}
+/* #w {
+    background-color: #fff;
+}
+#p {
+    background-color: crimson;
+}
+#c {
+    background-color: aquamarine;
+}
+#y {
+    background-color: blueviolet;
+    height: 100vh;
+} */
+
+.w {
+    background-color: #fff;
+    transition: 1s;
+}
+.p {
+    background-color: crimson;
+    transition: 1s;
+}
+.c {
+    background-color: aquamarine;
+    transition: 1s;
+}
+.y {
+    background-color: blueviolet;
+    transition: 1s;
+}
